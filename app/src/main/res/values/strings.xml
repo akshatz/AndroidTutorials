@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextandScrollingViews</string>
+    <string name="text">TextView with ScrollView</string>
+    <string name="mypara">Defense News is a global website[1] and magazine about politics, business and technology of defense. Defense News serves an audience of senior military, government and industry decision-makers throughout the world.</string>
+</resources>
